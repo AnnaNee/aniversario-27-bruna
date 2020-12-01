@@ -29,7 +29,7 @@ const HomeRoute = () => {
     var app = document.getElementById('typeWritingStart');
     var typewriter = new Typewriter(app, {
       loop: true,
-      delay: 10
+      delay: 35
     }, []);
 
     if (!showTypeEffect) {
@@ -375,7 +375,7 @@ const EndGameRoute = () => {
     var app = document.getElementById('typeWritingStart');
     var typewriter = new Typewriter(app, {
       loop: true,
-      delay: 40
+      delay: 35
     }, []);
 
     if (!showTypeEffect) {
