@@ -430,7 +430,7 @@ const GiftRoute = () => {
         .typeString('obrigado por ser essa mulher incrível')
         .pauseFor(1500)
         .deleteAll()
-        .typeString('e por me deixar dividar a vida - e esse aniversário - com você!')
+        .typeString('e por me deixar dividir a vida - e esse aniversário - com você!')
         .pauseFor(1500)
         .deleteAll()
         .typeString('também espero que isso tenha ajudado a nos "aproximar" nesse dia, mesmo longe.')
