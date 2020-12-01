@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aniversario-27-bruna/static/css/main.862911d4.chunk.css",
+    "main.js": "/aniversario-27-bruna/static/js/main.347edb94.chunk.js",
+    "main.js.map": "/aniversario-27-bruna/static/js/main.347edb94.chunk.js.map",
+    "runtime-main.js": "/aniversario-27-bruna/static/js/runtime-main.c2eb1865.js",
+    "runtime-main.js.map": "/aniversario-27-bruna/static/js/runtime-main.c2eb1865.js.map",
+    "static/js/2.0cc22faf.chunk.js": "/aniversario-27-bruna/static/js/2.0cc22faf.chunk.js",
+    "static/js/2.0cc22faf.chunk.js.map": "/aniversario-27-bruna/static/js/2.0cc22faf.chunk.js.map",
+    "static/js/3.102138a0.chunk.js": "/aniversario-27-bruna/static/js/3.102138a0.chunk.js",
+    "static/js/3.102138a0.chunk.js.map": "/aniversario-27-bruna/static/js/3.102138a0.chunk.js.map",
+    "index.html": "/aniversario-27-bruna/index.html",
+    "static/css/main.862911d4.chunk.css.map": "/aniversario-27-bruna/static/css/main.862911d4.chunk.css.map",
+    "static/js/2.0cc22faf.chunk.js.LICENSE.txt": "/aniversario-27-bruna/static/js/2.0cc22faf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/aniversario-27-bruna/static/media/bg.2a6fa749.jpeg",
+    "static/media/logo.6ce24c58.svg": "/aniversario-27-bruna/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2eb1865.js",
+    "static/js/2.0cc22faf.chunk.js",
+    "static/css/main.862911d4.chunk.css",
+    "static/js/main.347edb94.chunk.js"
+  ]
+}
